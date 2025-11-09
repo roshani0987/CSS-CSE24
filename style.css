@@ -1,0 +1,21 @@
+.box1{
+    border:6px solid black;
+    height:250px;
+    width:800px;
+    padding:5px;
+    margin:100px;
+    text-align:left;
+
+}
+
+.box2{
+    border:40px solid rgba(0, 47, 255, 0.851);
+    padding:15px;
+    margin-left:50px;
+    margin-right:10px;
+     background-color:yellow;
+     text-align:center;
+     margin-bottom:10px;
+     
+
+}
