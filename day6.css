@@ -11,6 +11,7 @@
      
      grid-template-rows: repeat (3 ,1fr);
      grid-template-areas: "header header header header" "main main . sidebar" "footer footer footer footer";
+     
      gap:15px 10px;
      justify-items:end;
      align-items: start ;
@@ -24,7 +25,7 @@
 
     background-color:palevioletred;
     border:1px solid yellow;
-    
+
     align-content: center;
     text-align: center;
     
