@@ -4,7 +4,7 @@
     width:1500px;
     background-color: pink;
     border:1px solid green;
-    /* grid-template-columns: [first] 400px [line2]auto [line3]80px [line4]auto; */
+    
 
     grid-template-columns: repeat (4,1fr);
 
@@ -21,6 +21,7 @@
 .item{
     height:490px;
     width:300px;
+    
     background-color:palevioletred;
     border:1px solid yellow;
     align-content: center;
