@@ -21,9 +21,10 @@
 .item{
     height:490px;
     width:300px;
-    
+
     background-color:palevioletred;
     border:1px solid yellow;
+    
     align-content: center;
     text-align: center;
     
